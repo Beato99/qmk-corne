@@ -1,5 +1,7 @@
 # Default QMK firmware for ErgoFrets Corne Keyboard
 
+![image](https://github.com/Beato99/qmk-corne/assets/127120288/a610295c-bb83-4659-b70b-b2e9f695fcb2)
+
 If you're seeing this, that probably means that you have an [ErgoFrets Corne Keyboard](https://www.etsy.com/listing/1611887621/corne-keyboard)
 and you probably want to further customize it.
 
