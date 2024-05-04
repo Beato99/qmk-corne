@@ -22,9 +22,9 @@ you're best bet is to write some firmware yourself. There's lots of tutorials ou
 
 Once you're done setting up your environment and have tested that everything works as expected, you can go ahead and copy this repository's source code into a custom keymap.
 
-copy the source code to here `qmk_firmare/keyboards/sofle/keymaps/<your_name>`
+copy the source code to here `qmk_firmare/keyboards/crkbd/keymaps/<your_name>`
 
-> NOTE: The ErgoFrets sofle uses as RP2040 microcontroller, which flashes in a different way than the regular MCUs. So when compiling make sure to add the following flags...
+> NOTE: The ErgoFrets Corne uses as RP2040 microcontroller, which flashes in a different way than the regular MCUs. So when compiling make sure to add the following flags...
 >
 > `qmk compile -kb <keyboard> -km <keymap> -e CONVERT_TO=promicro_rp2040`
 >
